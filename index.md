@@ -22,7 +22,7 @@ The demo aims to read data from a real time temperature sensor, post the data to
 1. Arduino IDE/Library
 1. SimpleDHT
 1. Board Manager -> Wemos D1 Mini ESP8266
-1 . AdaFruit NeoPixel
+1. AdaFruit NeoPixel
 1. Thinger IO SDK 
    
 ### IoT Device code - INO File
@@ -36,7 +36,7 @@ Code available [here](TemperatureRGBSmartLock.ino)
 - Add a Thinger Endpoint for the IoT device to call from IoT Device
 ![](images/thinger-endpoint.png)
 - Check Device Endpoints automatically added as they are declared by IoT Code
-- ![](images/thinger-device-endpoints.png)
+![](images/thinger-device-endpoints.png)
 
 ## ServiceNow side Code
 
