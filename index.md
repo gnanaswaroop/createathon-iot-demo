@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 ## CREATE-A-THON BootCamp IoT Demo
 
 # Demo Objective
@@ -59,5 +58,3 @@ Used POST to receive data from IoT Device via Thinger.io
 ![](images/flow.png)
 
 This demo shows how IoT devices can be integrated into ServiceNow platform and how the communication works bi-directionally. 
-=======
->>>>>>> b228c9917f51bc7605eaadc923672a4dab3014d6
