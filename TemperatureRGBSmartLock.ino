@@ -196,7 +196,7 @@ bool pushValue(float temp, float humidity, String device_id) {
                "User-Agent: ESP8266\r\n" +
                "Content-Type: application/json\r\n" +
                "Accept: application/json\r\n" +
-               "Authorization: Basic YWRtaW46QWRtaW4xMjM=\r\n" +
+               "Authorization: Basic <BASE64 TOKEN>\r\n" +
                "Content-Length: " + jsonContent.length() + "\r\n" +
                "Connection: close\r\n\r\n" +
                jsonContent);
